@@ -1,1 +1,3 @@
-See this file. OK
+<?
+phpinfo();
+?>
